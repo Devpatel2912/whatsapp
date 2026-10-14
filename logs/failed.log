@@ -1,0 +1,16 @@
+[2026-10-14 17:00:48] ERROR | Phone: +918866149762 | Error: Connection Closed
+[2026-10-14 17:00:56] ERROR | Phone: +919033856748 | Error: Connection Closed
+[2026-10-14 17:00:58] ERROR | Phone: +918200937375 | Error: Connection Closed
+[2026-10-14 17:01:00] FAILED | Phone: +9187799173459 | Reason: Not on WhatsApp
+[2026-10-14 17:01:08] ERROR | Phone: +919825520138 | Error: Connection Closed
+[2026-10-14 17:01:10] ERROR | Phone: +917984172575 | Error: Cannot read properties of null (reading 'onWhatsApp')
+[2026-10-14 17:01:19] ERROR | Phone: +919227151515 | Error: Connection Closed
+[2026-10-14 17:01:23] ERROR | Phone: +919099622208 | Error: undefined
+[2026-10-14 17:01:26] ERROR | Phone: +917984967129 | Error: Cannot read properties of null (reading 'onWhatsApp')
+[2026-10-14 17:01:40] ERROR | Phone: +918980809761 | Error: Connection Closed
+[2026-10-14 17:01:50] ERROR | Phone: +916353010499 | Error: Connection Closed
+[2026-10-14 17:01:58] ERROR | Phone: +919998274875 | Error: Connection Closed
+[2026-10-14 17:02:06] ERROR | Phone: +918735828407 | Error: Connection Closed
+[2026-10-14 17:02:09] ERROR | Phone: +919979510316 | Error: Cannot read properties of null (reading 'onWhatsApp')
+[2026-10-14 17:04:17] ERROR | Phone: +919998502691 | Error: Connection Closed
+[2026-10-14 17:06:37] ERROR | Phone: +919924005475 | Error: No sessions
