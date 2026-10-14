@@ -1,0 +1,33 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dashboard": "node server.js",
+    "split": "node split-csv.js",
+    "send:baileys": "node send-baileys.js",
+    "send:browser": "node send-browser.js",
+    "tunnel": "npx ngrok http 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "csv-parser": "^3.2.1",
+    "express": "^5.2.1",
+    "ngrok": "^5.0.0-beta.2",
+    "pino": "^10.3.0",
+    "puppeteer": "^25.13.0",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}

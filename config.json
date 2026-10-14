@@ -1,0 +1,16 @@
+{
+  "csvFilePath": "contacts.csv",
+  "messageFilePath": "content.txt",
+  "sendImage": true,
+  "imageFilePath": "image.png",
+  "defaultCountryCode": "91",
+  "delayMinSeconds": 2,
+  "delayMaxSeconds": 3,
+  "batchSize": 20,
+  "batchCooldownMinMinutes": 2,
+  "batchCooldownMaxMinutes": 5,
+  "sessionDirectory": "./whatsapp_browser_session",
+  "headless": true,
+  "pageTimeoutSeconds": 60,
+  "requireExplicitConfirmation": true
+}
